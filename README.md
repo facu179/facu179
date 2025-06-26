@@ -9,15 +9,12 @@
 ### 🧰 Tecnologías y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgresql,mysql,python,git,github,vscode,sql" />
+  <img src="https://skillicons.dev/icons?i=mysql,python,git,github,vscode,sql" />
 </p>
 
 ---
 
 ### 🚀 Proyectos Destacados
-
-#### 📦 [Nombre del Proyecto Principal](https://github.com/facundobarreralanatti/NOMBRE_DEL_REPO)
-> Descripción breve del proyecto (1 o 2 líneas). Qué hace, para qué sirve, y qué tecnologías usaste.
 
 - 🔧 Tecnologías: React · Node.js · Express · MongoDB / PostgreSQL
 - 📌 Funciones clave: Login, CRUD, autenticación, API REST, seguimiento de stock, etc.
