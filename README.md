@@ -16,11 +16,8 @@
 
 ### 🚀 Proyectos Destacados
 
-- 🔧 Tecnologías: React · Node.js · Express · MongoDB / PostgreSQL
-- 📌 Funciones clave: Login, CRUD, autenticación, API REST, seguimiento de stock, etc.
-- 📄 Puedes ver el código [aquí](https://github.com/facundobarreralanatti/NOMBRE_DEL_REPO)
+- 🔧 Tecnologías: indtroduciendome al python.
 
----
 
 ### 🎯 Objetivos
 
