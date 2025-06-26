@@ -29,9 +29,8 @@
 
 ### 📫 Contacto
 
-- 📧 Email: facundobarreralanatti@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/facundobarreralanatti](https://linkedin.com/in/facundobarreralanatti)
-- 🌐 Portfolio (opcional): [https://tu-portfolio.com](https://tu-portfolio.com)
+- 📧 Email: facundobbarrera2@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/feed/
 
 ---
 
