@@ -30,7 +30,7 @@
 ### 📫 Contacto
 
 - 📧 Email: facundobbarrera2@gmail.com
-- 💼 LinkedIn:https://www.linkedin.com/feed/
+- 💼 LinkedIn:www.linkedin.com/in/facundo-barrera-lanatti-a5093b371
 
 ---
 
