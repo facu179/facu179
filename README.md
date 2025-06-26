@@ -9,17 +9,11 @@
 ### 🧰 Tecnologías y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgresql,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=sql,python,git,github,vscode" />
 </p>
 
 ---
 
-
-- 🔧 Tecnologías: React · Node.js · Express · MongoDB / PostgreSQL
-- 📌 Funciones clave: Login, CRUD, autenticación, API REST, seguimiento de stock, etc.
-- 📄 Puedes ver el código [aquí](https://github.com/facundobarreralanatti/NOMBRE_DEL_REPO)
-
----
 
 ### 🎯 Objetivos
 
